@@ -1,6 +1,5 @@
 
 import struct
-
 import ntplib
 import socket
 import time
